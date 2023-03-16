@@ -1,0 +1,61 @@
+Assingment 15
+
+1) AI - Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that 
+typically require human intelligence. For example, speech recognition, problem-solving, learning and planning.
+
+ML - Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes 
+without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values. For example, consider
+the recommender sytems which is used by netflix or amazon to recommend thier users movies or products they prefer.
+
+DL - Algorithms based on highly complex neural networks that mimic the way a human brain works to detect patterns in large unstructured data sets. For example, 
+deep learning is commonly used in image classification tasks like facial recognition.
+
+
+2) In Supervised Learning, the machine learns under supervision. It contains a model that is able to predict with the help of a labeled dataset. A labeled dataset is 
+one where you already know the target answer. For example, Supervised learning is used to assess the risk in financial services or insurance domains in order to 
+minimize the risk portfolio of the companies.
+
+3) In Unsupervised Learning, the machine uses unlabeled data and learns on itself without any supervision. The machine tries to find a pattern in the unlabeled 
+data and gives a response. For example, Customer segmetation
+
+4) 🔹Artificial Intelligence (AI) enables machines to think by understanding, learning from the data, and taking decisions based on patterns hidden in the data or 
+make inferences that would otherwise be very difficult for humans to make manually. The end goal of using ML or DL is to create an AI application or machine as 
+smart as humans.
+
+🔹Machine Learning (ML) is a subset of AI; it provides us statistical tools/techniques like Supervised, Unsupervised, and Reinforcement learning to explore and 
+analyze the data.
+
+🔹Deep Learning (DL) is further a subset of ML, and the main idea behind it is to make machines learn by mimicking the human brain. Here, we create a multi 
+neural network architecture with the help of different techniques like ANN, CNN, and RNN.
+
+🔹Data Science (DS) is basically drawing insights from structured and unstructured data either by using ML or DL or without these techniques. We can even use 
+different visualization tools, statistics, and probability to gain these insights.
+
+5) Supervised Learning - Here you know the output feature of this dataset. You know what you wanna predict.
+Unsupervised Learning - Here we do not know nay specific output instead we try to group them into similar data to better understand them.
+Semi-supervised Learning - Combination of both supervised and unsupervised learning.
+
+6) Training set: The training set is the most important subset of data because it is used to train the model. The model learns from the patterns in the data, 
+and the quality of the training set determines the quality of the model.
+
+Validation set: The validation set is used to evaluate the performance of the model during training and to select the best model. The purpose of the validation set 
+is to prevent overfitting, which occurs when the model learns to fit the training data too closely and performs poorly on new data.
+
+Test set: The test set is used to evaluate the final performance of the model after it has been trained and validated. The purpose of the test set is to provide an 
+unbiased estimate of the model's performance on new, unseen data.
+
+7) Supervised learning can be used in anomaly detection by treating the problem as a binary classification task, where the goal is to identify whether a given data 
+point is an anomaly or not. In this approach, a labeled dataset is required, where each data point is labeled as either normal or anomalous.
+
+8) Supervised Learning:
+
+Linear Regression
+Logistic Regression
+Decision Trees
+
+
+Unsupervised Learning:
+
+K-Means Clustering
+Hierarchical Clustering
+Principal Component Analysis (PCA)
